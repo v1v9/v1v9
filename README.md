@@ -1,4 +1,5 @@
 <h1 align="left">Just a student</h1>
+
 ###
 
 `19yo`
@@ -8,6 +9,7 @@
 `TypeScript | Python`
 
 ###
+
 <div align="left">
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white&style=for-the-badge" height="40" alt="freebsd logo"  />
   <img width="6" />
