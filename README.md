@@ -4,11 +4,9 @@
 
 ###
 
-```
-19yo
-Denver, CO
-TypeScript | Python | GO
-```
+`19yo`
+`Denver, CO`
+`TypeScript | Python`
 
 ###
 
