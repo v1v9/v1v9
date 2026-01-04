@@ -8,10 +8,7 @@
 19yo
 Denver, CO
 TypeScript | Python | GO
-
-###
-
-<h2 align="left"></h2>
+```
 
 ###
 
