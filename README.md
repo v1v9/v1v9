@@ -4,8 +4,7 @@
 
 ###
 
-<code align="left"><br>
-19yo
+<code align="left"><br>19yo
 <br>Denver, CO
 <br>TypeScript | python<br>
 </code>
