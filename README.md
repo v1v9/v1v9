@@ -12,6 +12,8 @@ TypeScript | Python | GO
 
 ###
 
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white&style=for-the-badge" height="40" alt="freebsd logo"  />
   <img width="12" />
